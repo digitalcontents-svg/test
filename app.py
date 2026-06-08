@@ -7,7 +7,7 @@ st.title("🏫 DAV School Tohana - AI Helpdesk")
 st.write("Welcome! Ask any question about admissions, holidays, or timings.")
 
 # 2. अपनी Gemini API Key यहाँ डालें
-genai.configure(api_key="AQ.Ab8RN6JHGaSS4jxIf2_9NK5EHXGIqkUeuN9aYzcf65xCPcKl6w")
+genai.configure(api_key="AQ.Ab8RN6LTcTXnac2PbyABBJwexkUSIxCvDElML7FW54l1-eH2oQ")
 model = genai.GenerativeModel('gemini-pro')
 
 # 3. AI को स्कूल की जानकारी देना (Prompt)
